@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in vari
 
 - 🔭 I’m currently working on [CWC](https://github.com/StefanStenStark/CWC)
 - 🌱 I’m currently learning [Clerk]
-- 💬 Ask me about [How to make a awesome hummus/New ideas for projects]
+- 💬 Ask me about [How to make a awesome hummus or new ideas for projects]
 - 📫 How to reach me: [Stefan.frank.sund@gmail.com]
 
 ## 🔧 Technologies & Tools
