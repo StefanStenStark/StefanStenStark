@@ -4,12 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in vari
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
-- 🌱 I’m currently learning [New Technology/Skill]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [Specific Topic]
-- 💬 Ask me about [Topics You’re Knowledgeable About]
-- 📫 How to reach me: [Your Email] or [Your LinkedIn]
+- 🔭 I’m currently working on [CCW](https://github.com/StefanStenStark/CWC)
+- 🌱 I’m currently learning [Clerk]
+- 💬 Ask me about [How to make a awesome hummus/New ideas for projects]
+- 📫 How to reach me: [Stefan.frank.sund@gmail.com]
 
 ## 🔧 Technologies & Tools
 
