@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in vari
 ## 🔧 Technologies & Tools
 
 - **Languages**: C#, JavaScript, Java
-- **Frameworks**: React, Spring Boot, 
-- **Tools**: Git, Docker, Jenkins
+- **Frameworks**: React, Spring Boot, xUnit, nUnit
+- **Tools**: Git, Docker, VS code, Intellij
 
 ## 💬 Let's Connect
 
