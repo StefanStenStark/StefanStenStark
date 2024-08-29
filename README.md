@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in vari
 
 ## 💬 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/stefan-sundberg-ba739712b/)
+- [LinkedIn][(https://www.linkedin.com/in/stefan-sundberg-ba739712b/)]
 
 
 Thanks for visiting my profile! 😊
